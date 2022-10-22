@@ -126,6 +126,11 @@
 .notion-h2,
 .notion-h3 {
   margin-bottom: 0.25em;
+
+}
+
+.notion-h1{
+  font-family:'Montserrat', sans-serif;
 }
 
 .notion-callout {
