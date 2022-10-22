@@ -130,8 +130,16 @@
 }
 
 .notion-h1{
-  font-family:'Montserrat', sans-serif;
+  font-family:'Montserrat', sans-serif !important;
+  font-weight: 700;
 }
+
+.notion-h2{
+  font-family:'Montserrat', sans-serif !important;
+  font-weight: 500;
+}
+
+
 
 .notion-callout {
   margin: 0.75em 0;
@@ -395,4 +403,8 @@
 
 .dark-mode{
   background-color: black;
+}
+
+.notion-frame{
+  padding-top: 0px;
 }
