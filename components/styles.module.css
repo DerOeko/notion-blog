@@ -213,3 +213,7 @@
 .hidden {
   visibility: hidden;
 }
+
+.social {
+  display: none;
+}
